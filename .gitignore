@@ -52,7 +52,6 @@ junit.xml
 !/test/
 !/tsconfig.dev.json
 !/src/
-/lib
 /dist/
 !/.eslintrc.json
 .jsii
@@ -60,3 +59,4 @@ tsconfig.json
 !/API.md
 !/.github/workflows/upgrade-main.yml
 !/.github/workflows/upgrade-v2-main.yml
+tags
